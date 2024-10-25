@@ -7,7 +7,7 @@ This project aims to create a machine learning model capable of predicting subty
 
 
 
-## Features
+## Research Objectives
 
 - Training Machine Learning Models: Develop machine learning methods for predicting various types of diabetes.
 - Evaluating Algorithm Performance: Measure the accuracy and reliability of the chosen algorithm(s).
